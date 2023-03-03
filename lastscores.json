@@ -1,0 +1,1735 @@
+
+###### Last Matchs of Frankfurt######
+
+('Eintracht Frankfurt', ('0', '2'), 'Napoli')
+('Eintracht Frankfurt', ('2', '0'), 'Werder Bremen')
+('FC Cologne', ('3', '0'), 'Eintracht Frankfurt')
+('Eintracht Frankfurt', ('4', '2'), 'Darmstadt')
+('Eintracht Frankfurt', ('3', '0'), 'Hertha Berlin')
+('Bayern Munich', ('1', '1'), 'Eintracht Frankfurt')
+('Freiburg', ('1', '1'), 'Eintracht Frankfurt')
+('Eintracht Frankfurt', ('3', '0'), 'Schalke 04')
+('Eintracht Frankfurt', ('2', '2'), 'Lech Poznan')
+('Eintracht Frankfurt', ('1', '0'), 'Lech Poznan')
+
+
+###### Last Matchs of Napoli######
+
+('Eintracht Frankfurt', ('0', '2'), 'Napoli')
+('Sassuolo', ('0', '2'), 'Napoli')
+('Napoli', ('3', '0'), 'Cremonese')
+('Spezia', ('0', '3'), 'Napoli')
+('Napoli', ('2', '1'), 'Roma')
+('Salernitana', ('0', '2'), 'Napoli')
+('Napoli', ('2', '2'), 'Cremonese')
+('Napoli', ('5', '1'), 'Juventus')
+('Sampdoria', ('0', '2'), 'Napoli')
+('Inter', ('1', '0'), 'Napoli')
+
+
+###### Last Matchs of LiverPool######
+
+('Liverpool', ('2', '5'), 'Real Madrid')
+('Newcastle United', ('0', '2'), 'Liverpool')
+('Liverpool', ('2', '0'), 'Everton')
+('Wolverhampton Wanderers', ('3', '0'), 'Liverpool')
+('Brighton & Hove Albion', ('2', '1'), 'Liverpool')
+('Liverpool', ('0', '0'), 'Chelsea')
+('Wolverhampton Wanderers', ('0', '1'), 'Liverpool')
+('Brighton & Hove Albion', ('3', '0'), 'Liverpool')
+('Liverpool', ('2', '2'), 'Wolverhampton Wanderers')
+('Brentford', ('3', '1'), 'Liverpool')
+
+
+###### Last Matchs of Real Madrid######
+
+('Liverpool', ('2', '5'), 'Real Madrid')
+('Osasuna', ('0', '2'), 'Real Madrid')
+('Real Madrid', ('4', '0'), 'Elche')
+('Real Madrid', ('5', '3'), 'Al Hilal')
+('Al Ahly', ('1', '4'), 'Real Madrid')
+('Mallorca', ('1', '0'), 'Real Madrid')
+('Real Madrid', ('2', '0'), 'Valencia')
+('Real Madrid', ('0', '0'), 'Real Sociedad')
+('Real Madrid', ('3', '1'), 'Atletico Madrid')
+('Athletic Bilbao', ('0', '2'), 'Real Madrid')
+
+
+###### Last Matchs of BlackBurn rovers######
+
+('Blackburn Rovers', ('1', '0'), 'Blackpool')
+('Blackburn Rovers', ('1', '0'), 'Swansea City')
+('West Bromwich Albion', ('1', '1'), 'Blackburn Rovers')
+('Watford', ('1', '1'), 'Blackburn Rovers')
+('Blackburn Rovers', ('0', '0'), 'Wigan Athletic')
+('Birmingham City', ('0', '1'), 'Blackburn Rovers')
+('Blackburn Rovers', ('2', '2'), 'Birmingham City')
+('Bristol City', ('1', '1'), 'Blackburn Rovers')
+('Rotherham United', ('4', '0'), 'Blackburn Rovers')
+('Norwich City', ('0', '1'), 'Blackburn Rovers')
+
+
+###### Last Matchs of BlackPool######
+
+('Blackburn Rovers', ('1', '0'), 'Blackpool')
+('Blackpool', ('1', '0'), 'Stoke City')
+('Swansea City', ('2', '1'), 'Blackpool')
+('Blackpool', ('0', '0'), 'Rotherham United')
+('Blackpool', ('2', '2'), 'Huddersfield Town')
+('Middlesbrough', ('3', '0'), 'Blackpool')
+('Southampton', ('2', '1'), 'Blackpool')
+('Watford', ('2', '0'), 'Blackpool')
+('Blackpool', ('4', '1'), 'Nottingham Forest')
+('Blackpool', ('1', '1'), 'Sunderland')
+
+
+###### Last Matchs of Millwall######
+
+('Millwall', ('1', '1'), 'Burnley')
+('Millwall', ('3', '2'), 'Sheffield United')
+('Coventry City', ('1', '0'), 'Millwall')
+('Queens Park Rangers', ('1', '2'), 'Millwall')
+('Millwall', ('1', '1'), 'Sunderland')
+('Cardiff City', ('0', '1'), 'Millwall')
+('Middlesbrough', ('1', '0'), 'Millwall')
+('Millwall', ('0', '2'), 'Sheffield United')
+('Millwall', ('3', '0'), 'Rotherham United')
+('Millwall', ('0', '0'), 'Bristol City')
+
+
+###### Last Matchs of Burnley######
+
+('Millwall', ('1', '1'), 'Burnley')
+('Luton Town', ('0', '1'), 'Burnley')
+('Burnley', ('1', '1'), 'Watford')
+('Burnley', ('3', '0'), 'Preston North End')
+('Burnley', ('2', '1'), 'Ipswich Town')
+('Norwich City', ('0', '3'), 'Burnley')
+('Ipswich Town', ('0', '0'), 'Burnley')
+('Burnley', ('2', '1'), 'West Bromwich Albion')
+('Burnley', ('1', '0'), 'Coventry City')
+('AFC Bournemouth', ('2', '4'), 'Burnley')
+
+
+###### Last Matchs of Norwich City######
+
+('Norwich City', ('3', '1'), 'Birmingham City')
+('Wigan Athletic', ('0', '0'), 'Norwich City')
+('Norwich City', ('3', '1'), 'Hull City')
+('Bristol City', ('1', '0'), 'Norwich City')
+('Norwich City', ('0', '3'), 'Burnley')
+('Coventry City', ('2', '4'), 'Norwich City')
+('Preston North End', ('0', '4'), 'Norwich City')
+('Norwich City', ('0', '1'), 'Blackburn Rovers')
+('Norwich City', ('0', '1'), 'Watford')
+('Norwich City', ('1', '1'), 'Reading')
+
+
+###### Last Matchs of Birmingham City######
+
+('Norwich City', ('3', '1'), 'Birmingham City')
+('Huddersfield Town', ('2', '1'), 'Birmingham City')
+('Birmingham City', ('0', '2'), 'Cardiff City')
+('Birmingham City', ('2', '0'), 'West Bromwich Albion')
+('Swansea City', ('3', '4'), 'Birmingham City')
+('Birmingham City', ('0', '1'), 'Blackburn Rovers')
+('Blackburn Rovers', ('2', '2'), 'Birmingham City')
+('Birmingham City', ('1', '2'), 'Preston North End')
+('Forest Green Rovers', ('1', '2'), 'Birmingham City')
+('Bristol City', ('4', '2'), 'Birmingham City')
+
+
+###### Last Matchs of Rotherham United######
+
+('Rotherham United', ('2', '1'), 'Sunderland')
+('Rotherham United', ('0', '2'), 'Coventry City')
+('Reading', ('2', '1'), 'Rotherham United')
+('Blackpool', ('0', '0'), 'Rotherham United')
+('Rotherham United', ('0', '0'), 'Sheffield United')
+('Watford', ('1', '1'), 'Rotherham United')
+('Rotherham United', ('4', '0'), 'Blackburn Rovers')
+('Ipswich Town', ('4', '1'), 'Rotherham United')
+('Millwall', ('3', '0'), 'Rotherham United')
+('Huddersfield Town', ('2', '0'), 'Rotherham United')
+
+
+###### Last Matchs of Sunderland######
+
+('Rotherham United', ('2', '1'), 'Sunderland')
+('Sunderland', ('1', '1'), 'Bristol City')
+('Queens Park Rangers', ('0', '3'), 'Sunderland')
+('Sunderland', ('1', '0'), 'Reading')
+('Sunderland', ('2', '3'), 'Fulham')
+('Millwall', ('1', '1'), 'Sunderland')
+('Fulham', ('1', '1'), 'Sunderland')
+('Sunderland', ('2', '0'), 'Middlesbrough')
+('Sunderland', ('1', '3'), 'Swansea City')
+('Shrewsbury Town', ('1', '2'), 'Sunderland')
+
+
+###### Last Matchs of Swansea City######
+
+('Swansea City', ('1', '3'), 'Stoke City')
+('Blackburn Rovers', ('1', '0'), 'Swansea City')
+('Swansea City', ('2', '1'), 'Blackpool')
+('Sheffield United', ('3', '0'), 'Swansea City')
+('Swansea City', ('3', '4'), 'Birmingham City')
+('Queens Park Rangers', ('1', '1'), 'Swansea City')
+('Swansea City', ('1', '2'), 'Bristol City')
+('Sunderland', ('1', '3'), 'Swansea City')
+('Bristol City', ('1', '1'), 'Swansea City')
+('Swansea City', ('1', '2'), 'Burnley')
+
+
+###### Last Matchs of Stoke City######
+
+('Swansea City', ('1', '3'), 'Stoke City')
+('Blackpool', ('1', '0'), 'Stoke City')
+('Stoke City', ('3', '0'), 'Huddersfield Town')
+('Stoke City', ('0', '0'), 'Hull City')
+('Luton Town', ('1', '0'), 'Stoke City')
+('Stoke City', ('3', '1'), 'Stevenage')
+('Stoke City', ('4', '0'), 'Reading')
+('Sheffield United', ('3', '1'), 'Stoke City')
+('Hartlepool United', ('0', '3'), 'Stoke City')
+('Stoke City', ('0', '1'), 'Preston North End')
+
+
+###### Last Matchs of Fleetwood Town######
+
+('Fleetwood Town', ('1', '0'), 'Cambridge United')
+('Plymouth Argyle', ('0', '0'), 'Fleetwood Town')
+('Fleetwood Town', ('1', '0'), 'Peterborough United')
+('Charlton Athletic', ('1', '2'), 'Fleetwood Town')
+('Fleetwood Town', ('1', '0'), 'Sheffield Wednesday')
+('Fleetwood Town', ('2', '3'), 'Burton Albion')
+('Sheffield Wednesday', ('1', '1'), 'Fleetwood Town')
+('Fleetwood Town', ('0', '2'), 'Portsmouth')
+('Sheffield Wednesday', ('1', '0'), 'Fleetwood Town')
+('Fleetwood Town', ('1', '2'), 'Oxford United')
+
+
+###### Last Matchs of Cambridge United######
+
+('Fleetwood Town', ('1', '0'), 'Cambridge United')
+('Cambridge United', ('1', '0'), 'Oxford United')
+('Cambridge United', ('1', '2'), 'Cheltenham Town')
+('Barnsley', ('2', '0'), 'Cambridge United')
+('Cambridge United', ('1', '1'), 'Ipswich Town')
+('Lincoln City', ('0', '0'), 'Cambridge United')
+('Shrewsbury Town', ('5', '1'), 'Cambridge United')
+('Cambridge United', ('1', '2'), 'Bristol Rovers')
+('Sheffield Wednesday', ('5', '0'), 'Cambridge United')
+('Derby County', ('1', '0'), 'Cambridge United')
+
+
+###### Last Matchs of Morecambe######
+
+('Morecambe', ('1', '0'), 'Port Vale')
+('Morecambe', ('0', '3'), 'Peterborough United')
+('Sheffield Wednesday', ('3', '0'), 'Morecambe')
+('Morecambe', ('1', '1'), 'Forest Green Rovers')
+('Derby County', ('5', '0'), 'Morecambe')
+('Morecambe', ('5', '1'), 'Bristol Rovers')
+('Ipswich Town', ('4', '0'), 'Morecambe')
+('Morecambe', ('2', '1'), 'Cheltenham Town')
+('Morecambe', ('5', '0'), 'Burton Albion')
+('Morecambe', ('2', '0'), 'Accrington Stanley')
+
+
+###### Last Matchs of Port Vale ######
+
+('Morecambe', ('1', '0'), 'Port Vale')
+('Port Vale', ('1', '0'), 'Exeter City')
+('Port Vale', ('1', '3'), 'Barnsley')
+('Shrewsbury Town', ('3', '2'), 'Port Vale')
+('Port Vale', ('1', '1'), 'Accrington Stanley')
+('Port Vale', ('0', '3'), 'Wycombe Wanderers')
+('Cheltenham Town', ('0', '0'), 'Port Vale')
+('Port Vale', ('1', '2'), 'Derby County')
+('Port Vale', ('0', '2'), 'Peterborough United')
+('Forest Green Rovers', ('1', '3'), 'Port Vale')
+
+
+###### Last Matchs of Grimsby Town ######
+
+('Grimsby Town', ('0', '0'), 'Harrogate')
+('Northampton Town', ('1', '2'), 'Grimsby Town')
+('Gillingham', ('2', '1'), 'Grimsby Town')
+('Grimsby Town', ('0', '1'), 'Colchester United')
+('Grimsby Town', ('3', '0'), 'Luton Town')
+('Crewe Alexandra', ('0', '3'), 'Grimsby Town')
+('Luton Town', ('2', '2'), 'Grimsby Town')
+('Swindon Town', ('5', '0'), 'Grimsby Town')
+('Grimsby Town', ('1', '0'), 'Burton Albion')
+('Grimsby Town', ('1', '0'), 'Stockport County')
+
+
+###### Last Matchs of Harrogate ######
+
+('Grimsby Town', ('0', '0'), 'Harrogate')
+('Harrogate', ('2', '2'), 'Crewe Alexandra')
+('Salford City', ('1', '1'), 'Harrogate')
+('Harrogate', ('1', '3'), 'Stockport County')
+('Carlisle United', ('0', '1'), 'Harrogate')
+('Harrogate', ('0', '1'), 'Sutton United')
+('Harrogate', ('1', '1'), 'Stevenage')
+('Harrogate', ('1', '3'), 'Colchester United')
+('Hartlepool United', ('3', '3'), 'Harrogate')
+('Bradford City', ('1', '0'), 'Harrogate')
+
+
+###### Last Matchs of Hartlepool United ######
+
+('Hartlepool United', ('0', '1'), 'Newport County')
+('AFC Wimbledon', ('2', '2'), 'Hartlepool United')
+('Crewe Alexandra', ('2', '0'), 'Hartlepool United')
+('Hartlepool United', ('2', '2'), 'Sutton United')
+('Doncaster Rovers', ('0', '1'), 'Hartlepool United')
+('Hartlepool United', ('1', '2'), 'Colchester United')
+('Carlisle United', ('3', '1'), 'Hartlepool United')
+('Hartlepool United', ('2', '0'), 'Rochdale')
+('Gillingham', ('2', '0'), 'Hartlepool United')
+('Hartlepool United', ('0', '3'), 'Stoke City')
+
+
+###### Last Matchs of Newport County ######
+
+('Hartlepool United', ('0', '1'), 'Newport County')
+('Walsall', ('1', '1'), 'Newport County')
+('Newport County', ('2', '2'), 'Stevenage')
+('Barrow', ('0', '1'), 'Newport County')
+('Newport County', ('2', '1'), 'Swindon Town')
+('Carlisle United', ('2', '0'), 'Newport County')
+('Rochdale', ('1', '1'), 'Newport County')
+('Newport County', ('2', '2'), 'Crawley Town')
+('Newport County', ('0', '0'), 'Leyton Orient')
+('AFC Wimbledon', ('1', '1'), 'Newport County')
+
+
+###### Last Matchs of Rochdale ######
+
+('Rochdale', ('1', '2'), 'Stockport County')
+('Rochdale', ('0', '2'), 'Gillingham')
+('Leyton Orient', ('2', '1'), 'Rochdale')
+('Rochdale', ('1', '1'), 'Northampton Town')
+('Salford City', ('2', '1'), 'Rochdale')
+('Rochdale', ('0', '1'), 'Carlisle United')
+('Hartlepool United', ('2', '0'), 'Rochdale')
+('Rochdale', ('1', '2'), 'Colchester United')
+('Bradford City', ('1', '2'), 'Rochdale')
+('Rochdale', ('1', '1'), 'Newport County')
+
+
+###### Last Matchs of Stockport County ######
+
+('Rochdale', ('1', '2'), 'Stockport County')
+('Stockport County', ('2', '0'), 'Stevenage')
+('Stockport County', ('2', '1'), 'Crawley Town')
+('Harrogate', ('1', '3'), 'Stockport County')
+('Stockport County', ('3', '2'), 'Tranmere Rovers')
+('Crewe Alexandra', ('1', '1'), 'Stockport County')
+('AFC Wimbledon', ('1', '0'), 'Stockport County')
+('Stockport County', ('0', '0'), 'Bradford City')
+('Stockport County', ('2', '0'), 'Northampton Town')
+('Stockport County', ('1', '2'), 'Walsall')
+
+
+###### Last Matchs of Walsall ######
+
+('Walsall', ('0', '0'), 'Crewe Alexandra')
+('Walsall', ('1', '1'), 'Newport County')
+('Colchester United', ('0', '0'), 'Walsall')
+('Walsall', ('1', '1'), 'Leyton Orient')
+('Northampton Town', ('0', '0'), 'Walsall')
+('Salford City', ('1', '0'), 'Walsall')
+('Walsall', ('0', '1'), 'Leicester City')
+('Tranmere Rovers', ('1', '1'), 'Walsall')
+('Stockport County', ('1', '2'), 'Walsall')
+('Walsall', ('2', '1'), 'Mansfield Town')
+
+
+###### Last Matchs of Crewe Alexandra ######
+
+('Walsall', ('0', '0'), 'Crewe Alexandra')
+('Harrogate', ('2', '2'), 'Crewe Alexandra')
+('Crewe Alexandra', ('2', '0'), 'Hartlepool United')
+('Crawley Town', ('2', '2'), 'Crewe Alexandra')
+('Crewe Alexandra', ('0', '2'), 'Leyton Orient')
+('Crewe Alexandra', ('0', '3'), 'Grimsby Town')
+('Crewe Alexandra', ('1', '1'), 'Stockport County')
+('Mansfield Town', ('1', '1'), 'Crewe Alexandra')
+('Crewe Alexandra', ('0', '0'), 'AFC Wimbledon')
+('Crewe Alexandra', ('1', '0'), 'Tranmere Rovers')
+
+
+###### Last Matchs of Barnet ######
+
+('Barnet', ('2', '4'), 'Altrincham')
+('Torquay United', ('2', '1'), 'Barnet')
+('Notts County', ('4', '1'), 'Barnet')
+('Torquay United', ('1', '2'), 'Barnet')
+('FC Halifax Town', ('1', '3'), 'Barnet')
+('Scunthorpe United', ('1', '3'), 'Barnet')
+('Eastleigh', ('0', '2'), 'Barnet')
+('Barnet', ('3', '0'), 'Chesterfield')
+('Solihull Moors', ('0', '2'), 'Barnet')
+('Barnet', ('1', '1'), 'Gateshead FC')
+
+
+###### Last Matchs of Altrincham ######
+
+('Barnet', ('2', '4'), 'Altrincham')
+('Altrincham', ('3', '1'), 'Woking')
+('Altrincham', ('1', '2'), 'Bromley')
+('Bracknell Town', ('1', '3'), 'Altrincham')
+('Altrincham', ('1', '2'), 'Wrexham')
+('Altrincham', ('0', '2'), 'Boreham Wood')
+('Chesterfield', ('1', '0'), 'Altrincham')
+('Altrincham', ('3', '2'), 'Maidenhead United')
+('Altrincham', ('2', '2'), 'Wrexham')
+('FC Halifax Town', ('2', '2'), 'Altrincham')
+
+
+###### Last Matchs of Chesterfield ######
+
+('Chesterfield', ('1', '1'), 'Wealdstone')
+('Solihull Moors', ('0', '0'), 'Chesterfield')
+('Aldershot Town', ('1', '1'), 'Chesterfield')
+('Chesterfield', ('1', '2'), 'Notts County')
+('Chesterfield', ('1', '3'), 'Woking')
+('Boreham Wood', ('1', '0'), 'Chesterfield')
+('Barnet', ('3', '0'), 'Chesterfield')
+('Chesterfield', ('1', '0'), 'Altrincham')
+('West Bromwich Albion', ('4', '0'), 'Chesterfield')
+('Chesterfield', ('3', '3'), 'West Bromwich Albion')
+
+
+###### Last Matchs of Wealdstone ######
+
+('Chesterfield', ('1', '1'), 'Wealdstone')
+('Wealdstone', ('3', '1'), 'York City')
+('Wrexham', ('3', '1'), 'Wealdstone')
+('Wealdstone', ('1', '0'), 'Dagenham & Redbridge')
+('Yeovil Town', ('0', '0'), 'Wealdstone')
+('Wealdstone', ('1', '2'), 'Gateshead FC')
+('Wealdstone', ('3', '1'), 'Eastleigh')
+('Chelmsford', ('2', '1'), 'Wealdstone')
+('Maidenhead United', ('0', '0'), 'Wealdstone')
+('Wealdstone', ('3', '2'), 'Maidenhead United')
+
+
+###### Last Matchs of Dagenham & Redbridge ######
+
+('Dagenham & Redbridge', ('2', '1'), 'Aldershot Town')
+('Scunthorpe United', ('3', '2'), 'Dagenham & Redbridge')
+('Dagenham & Redbridge', ('0', '1'), 'Eastleigh')
+('Dagenham & Redbridge', ('2', '1'), 'Solihull Moors')
+('Oldham Athletic', ('4', '2'), 'Dagenham & Redbridge')
+('Wealdstone', ('1', '0'), 'Dagenham & Redbridge')
+('Dagenham & Redbridge', ('0', '2'), 'Yeovil Town')
+('Bromley', ('1', '1'), 'Dagenham & Redbridge')
+('Dagenham & Redbridge', ('0', '2'), 'Maidenhead United')
+('Aldershot Town', ('0', '2'), 'Dagenham & Redbridge')
+
+
+###### Last Matchs of Aldershot Town ######
+
+('Dagenham & Redbridge', ('2', '1'), 'Aldershot Town')
+('Aldershot Town', ('3', '4'), 'Wrexham')
+('Aldershot Town', ('1', '1'), 'Chesterfield')
+('Aldershot Town', ('1', '0'), 'Dorking Wanderers')
+('Aldershot Town', ('2', '0'), 'Dorking Wanderers')
+('Aldershot Town', ('0', '1'), 'Boreham Wood')
+('Aldershot Town', ('1', '1'), 'Oldham Athletic')
+('Maidstone', ('0', '3'), 'Aldershot Town')
+('Bromley', ('2', '2'), 'Aldershot Town')
+('Solihull Moors', ('1', '2'), 'Aldershot Town')
+
+
+###### Last Matchs of Dorking Wanderers ######
+
+('Dorking Wanderers', ('3', '2'), 'Torquay United')
+('Bromley', ('2', '0'), 'Dorking Wanderers')
+('Aldershot Town', ('1', '0'), 'Dorking Wanderers')
+('Aldershot Town', ('2', '0'), 'Dorking Wanderers')
+('Dorking Wanderers', ('0', '3'), 'Solihull Moors')
+('Dorking Wanderers', ('3', '2'), 'Kidderminster Harriers')
+('Dorking Wanderers', ('1', '5'), 'Oldham Athletic')
+('Eastleigh', ('4', '0'), 'Dorking Wanderers')
+('Dorking Wanderers', ('1', '1'), 'Eastleigh')
+('Yeovil Town', ('0', '0'), 'Dorking Wanderers')
+
+
+###### Last Matchs of Torquay United ######
+
+('Dorking Wanderers', ('3', '2'), 'Torquay United')
+('Torquay United', ('2', '1'), 'Barnet')
+('Torquay United', ('1', '2'), 'Barnet')
+('Torquay United', ('1', '2'), 'Notts County')
+('Woking', ('1', '1'), 'Torquay United')
+('Torquay United', ('1', '0'), 'Maidstone')
+('Torquay United', ('4', '2'), 'Taunton Town')
+('Torquay United', ('1', '0'), 'FC Halifax Town')
+('Yeovil Town', ('2', '0'), 'Torquay United')
+('Torquay United', ('3', '2'), 'Chippenham Town')
+
+
+###### Last Matchs of FC Halifax Town ######
+
+('FC Halifax Town', ('1', '1'), 'Solihull Moors')
+('Boreham Wood', ('1', '1'), 'FC Halifax Town')
+('Southend United', ('2', '1'), 'FC Halifax Town')
+('Maidenhead United', ('0', '0'), 'FC Halifax Town')
+('FC Halifax Town', ('1', '3'), 'Barnet')
+('Oldham Athletic', ('0', '1'), 'FC Halifax Town')
+('Harrow Borough', ('2', '2'), 'FC Halifax Town')
+('Notts County', ('1', '0'), 'FC Halifax Town')
+('FC Halifax Town', ('0', '1'), 'Scunthorpe United')
+('Torquay United', ('1', '0'), 'FC Halifax Town')
+
+
+###### Last Matchs of FC Solihull Moors ######
+
+('FC Halifax Town', ('1', '1'), 'Solihull Moors')
+('Solihull Moors', ('0', '0'), 'Chesterfield')
+('Boreham Wood', ('1', '1'), 'Solihull Moors')
+('Dagenham & Redbridge', ('2', '1'), 'Solihull Moors')
+('York City', ('2', '3'), 'Solihull Moors')
+('Solihull Moors', ('0', '2'), 'Gateshead FC')
+('Solihull Moors', ('1', '2'), 'Notts County')
+('Dorking Wanderers', ('0', '3'), 'Solihull Moors')
+('Solihull Moors', ('1', '2'), 'Aldershot Town')
+('Solihull Moors', ('0', '2'), 'Barnet')
+
+
+###### Last Matchs of Gateshead FC ######
+
+('Gateshead FC', ('2', '1'), 'Oldham Athletic')
+('Southend United', ('1', '0'), 'Gateshead FC')
+('Oldham Athletic', ('2', '2'), 'Gateshead FC')
+('Banbury United', ('0', '1'), 'Gateshead FC')
+('Solihull Moors', ('0', '2'), 'Gateshead FC')
+('Wealdstone', ('1', '2'), 'Gateshead FC')
+('Gateshead FC', ('0', '3'), 'Wrexham')
+('Gateshead FC', ('3', '1'), 'Oldham Athletic')
+('Barnet', ('1', '1'), 'Gateshead FC')
+('Gateshead FC', ('2', '2'), 'York City')
+
+
+###### Last Matchs of Oldham Athletic ######
+
+('Gateshead FC', ('2', '1'), 'Oldham Athletic')
+('Oldham Athletic', ('2', '0'), 'Maidstone')
+('Oldham Athletic', ('2', '2'), 'Gateshead FC')
+('Oldham Athletic', ('4', '2'), 'Dagenham & Redbridge')
+('Oldham Athletic', ('0', '1'), 'FC Halifax Town')
+('Aldershot Town', ('1', '1'), 'Oldham Athletic')
+('Oldham Athletic', ('2', '0'), 'York City')
+('Gateshead FC', ('3', '1'), 'Oldham Athletic')
+('Dorking Wanderers', ('1', '5'), 'Oldham Athletic')
+('Oldham Athletic', ('2', '2'), 'Notts County')
+
+
+###### Last Matchs of Maidenhead United ######
+
+('Maidenhead United', ('2', '0'), 'Yeovil Town')
+('Eastleigh', ('1', '0'), 'Maidenhead United')
+('Maidenhead United', ('0', '0'), 'FC Halifax Town')
+('Maidenhead United', ('1', '2'), 'Southend United')
+('Bromley', ('1', '1'), 'Maidenhead United')
+('York City', ('1', '2'), 'Maidenhead United')
+('Altrincham', ('3', '2'), 'Maidenhead United')
+('Dagenham & Redbridge', ('0', '2'), 'Maidenhead United')
+('Scunthorpe United', ('3', '0'), 'Maidenhead United')
+('Maidenhead United', ('0', '0'), 'Wealdstone')
+
+
+###### Last Matchs of Yeovil Town ######
+
+('Maidenhead United', ('2', '0'), 'Yeovil Town')
+('Yeovil Town', ('1', '4'), 'Notts County')
+('Yeovil Town', ('2', '2'), 'Maidstone')
+('Yeovil Town', ('0', '0'), 'Wealdstone')
+('Dagenham & Redbridge', ('0', '2'), 'Yeovil Town')
+('Bromley', ('4', '1'), 'Yeovil Town')
+('Yeovil Town', ('2', '0'), 'Torquay United')
+('Yeovil Town', ('0', '0'), 'Dorking Wanderers')
+('Yeovil Town', ('0', '0'), 'Scunthorpe United')
+('Yeovil Town', ('1', '0'), 'FC Halifax Town')
+
+
+###### Last Matchs of Maidstone ######
+
+('Maidstone', ('1', '3'), 'Eastleigh')
+('Oldham Athletic', ('2', '0'), 'Maidstone')
+('Eastleigh', ('0', '4'), 'Maidstone')
+('Yeovil Town', ('2', '2'), 'Maidstone')
+('Torquay United', ('1', '0'), 'Maidstone')
+('Maidstone', ('0', '3'), 'Aldershot Town')
+('Maidstone', ('2', '3'), 'Wrexham')
+('Notts County', ('2', '2'), 'Maidstone')
+('York City', ('4', '1'), 'Maidstone')
+('Maidstone', ('0', '1'), 'Dagenham & Redbridge')
+
+
+###### Last Matchs of Eastleigh ######
+
+('Maidstone', ('1', '3'), 'Eastleigh')
+('Eastleigh', ('1', '0'), 'Maidenhead United')
+('Dagenham & Redbridge', ('0', '1'), 'Eastleigh')
+('Eastleigh', ('0', '4'), 'Maidstone')
+('Eastleigh', ('1', '0'), 'Woking')
+('Eastleigh', ('0', '2'), 'Barnet')
+('Southend United', ('1', '3'), 'Eastleigh')
+('Eastleigh', ('1', '0'), 'Braintree Town')
+('Wealdstone', ('3', '1'), 'Eastleigh')
+('Eastleigh', ('4', '0'), 'Dorking Wanderers')
+
+
+###### Last Matchs of Notts County ######
+
+('Notts County', ('4', '0'), 'Southend United')
+('Yeovil Town', ('1', '4'), 'Notts County')
+('Notts County', ('4', '1'), 'Barnet')
+('Chesterfield', ('1', '2'), 'Notts County')
+('Torquay United', ('1', '2'), 'Notts County')
+('Solihull Moors', ('1', '2'), 'Notts County')
+('Notts County', ('1', '0'), 'FC Halifax Town')
+('Notts County', ('2', '2'), 'Maidstone')
+('Notts County', ('1', '1'), 'Boreham Wood')
+('Aldershot Town', ('0', '3'), 'Notts County')
+
+
+###### Last Matchs of Southend United ######
+
+('Notts County', ('4', '0'), 'Southend United')
+('Southend United', ('1', '0'), 'Gateshead FC')
+('Southend United', ('2', '1'), 'FC Halifax Town')
+('Southend United', ('0', '2'), 'York City')
+('Maidenhead United', ('1', '2'), 'Southend United')
+('Southend United', ('2', '0'), 'York City')
+('Southend United', ('1', '3'), 'Eastleigh')
+('Southend United', ('2', '1'), 'Darlington')
+('Southend United', ('3', '0'), 'Solihull Moors')
+('Bromley', ('0', '0'), 'Southend United')
+
+
+###### Last Matchs of Woking ######
+
+('Woking', ('2', '1'), 'Bromley')
+('Altrincham', ('3', '1'), 'Woking')
+('Wrexham', ('2', '2'), 'Woking')
+('Woking', ('2', '2'), 'Boreham Wood')
+('Chesterfield', ('1', '3'), 'Woking')
+('Eastleigh', ('1', '0'), 'Woking')
+('Woking', ('1', '1'), 'Torquay United')
+('Scunthorpe United', ('0', '2'), 'Woking')
+('Dagenham & Redbridge', ('1', '2'), 'Woking')
+('Woking', ('4', '1'), 'Aldershot Town')
+
+
+###### Last Matchs of Bromley ######
+
+('Woking', ('2', '1'), 'Bromley')
+('Bromley', ('2', '0'), 'Dorking Wanderers')
+('Altrincham', ('1', '2'), 'Bromley')
+('Bromley', ('1', '1'), 'Maidenhead United')
+('Scunthorpe United', ('1', '1'), 'Bromley')
+('Bromley', ('1', '1'), 'Dagenham & Redbridge')
+('Bromley', ('2', '2'), 'Aldershot Town')
+('Bromley', ('4', '1'), 'Yeovil Town')
+('Wrexham', ('2', '1'), 'Bromley')
+('Bromley', ('0', '0'), 'Southend United')
+
+
+###### Last Matchs of Wrexham ######
+
+('Wrexham', ('2', '0'), 'Scunthorpe United')
+('Aldershot Town', ('3', '4'), 'Wrexham')
+('Wrexham', ('2', '2'), 'Woking')
+('Wrexham', ('3', '1'), 'Wealdstone')
+('Sheffield United', ('3', '1'), 'Wrexham')
+('Altrincham', ('1', '2'), 'Wrexham')
+('Wrexham', ('3', '3'), 'Sheffield United')
+('Gateshead FC', ('0', '3'), 'Wrexham')
+('Maidstone', ('2', '3'), 'Wrexham')
+('Altrincham', ('2', '2'), 'Wrexham')
+
+
+###### Last Matchs of Scunthorpe United ######
+
+('Wrexham', ('2', '0'), 'Scunthorpe United')
+('Scunthorpe United', ('3', '2'), 'Dagenham & Redbridge')
+('Scunthorpe United', ('1', '3'), 'Barnet')
+('Scunthorpe United', ('1', '1'), 'Bromley')
+('FC Halifax Town', ('0', '1'), 'Scunthorpe United')
+('Scunthorpe United', ('0', '2'), 'Woking')
+('Scunthorpe United', ('3', '0'), 'Maidenhead United')
+('Chesterfield', ('4', '1'), 'Scunthorpe United')
+('Scunthorpe United', ('1', '2'), 'Chesterfield')
+('Wrexham', ('3', '1'), 'Scunthorpe United')
+
+
+###### Last Matchs of York City ######
+
+('York City', ('1', '1'), 'Boreham Wood')
+('Wealdstone', ('3', '1'), 'York City')
+('Southend United', ('0', '2'), 'York City')
+('York City', ('2', '3'), 'Solihull Moors')
+('Southend United', ('2', '0'), 'York City')
+('York City', ('1', '2'), 'Maidenhead United')
+('Oldham Athletic', ('2', '0'), 'York City')
+('York City', ('1', '1'), 'Chelmsford')
+('York City', ('4', '1'), 'Maidstone')
+('Gateshead FC', ('2', '2'), 'York City')
+
+
+###### Last Matchs of Boreham Wood ######
+
+('York City', ('1', '1'), 'Boreham Wood')
+('Boreham Wood', ('1', '1'), 'FC Halifax Town')
+('Boreham Wood', ('1', '1'), 'Solihull Moors')
+('Woking', ('2', '2'), 'Boreham Wood')
+('Boreham Wood', ('1', '0'), 'Chesterfield')
+('Aldershot Town', ('0', '1'), 'Boreham Wood')
+('Altrincham', ('0', '2'), 'Boreham Wood')
+('Accrington Stanley', ('1', '0'), 'Boreham Wood')
+('Notts County', ('1', '1'), 'Boreham Wood')
+('Boreham Wood', ('1', '1'), 'Accrington Stanley')
+
+
+###### Last Matchs of Nacional Asuncion ######
+
+('Nacional Asuncion', ('2', '0'), 'Sporting Cristal')
+('Nacional Asuncion', ('1', '2'), 'Libertad')
+('Nacional Asuncion', ('3', '1'), 'Sport Huancayo')
+('Club General Caballero JLM', ('0', '1'), 'Nacional Asuncion')
+('Sport Huancayo', ('2', '1'), 'Nacional Asuncion')
+('Guairena', ('1', '3'), 'Nacional Asuncion')
+('Olimpia', ('1', '1'), 'Nacional Asuncion')
+('Nacional Asuncion', ('0', '2'), 'Sportivo Ameliano')
+('Nacional Asuncion', ('1', '1'), 'Sportivo Ameliano')
+('Tacuary', ('2', '1'), 'Nacional Asuncion')
+
+
+###### Last Matchs of Sporting Cristal ######
+
+('Nacional Asuncion', ('2', '0'), 'Sporting Cristal')
+('Sporting Cristal', ('1', '0'), 'FBC Melgar')
+('Carlos A. Mannucci', ('1', '1'), 'Sporting Cristal')
+('Sporting Cristal', ('2', '1'), 'Tolima')
+('Sporting Cristal', ('0', '2'), 'FBC Melgar')
+('FBC Melgar', ('2', '0'), 'Sporting Cristal')
+('Sporting Cristal', ('4', '0'), 'Carlos A. Mannucci')
+('Alianza Atletico', ('0', '2'), 'Sporting Cristal')
+('Sporting Cristal', ('1', '2'), 'Atletico Grau')
+('Sport Boys', ('3', '5'), 'Sporting Cristal')
+
+
+###### Last Matchs of Hamilton Academical ######
+
+('Hamilton Academical', ('2', '1'), 'Inverness CT')
+('Inverness CT', ('0', '3'), 'Hamilton Academical')
+('Hamilton Academical', ('0', '2'), 'Hearts')
+('Hamilton Academical', ('2', '1'), 'Queen of South')
+('Hamilton Academical', ('1', '1'), 'Dundee FC')
+('Partick Thistle', ('0', '1'), 'Hamilton Academical')
+('Hamilton Academical', ('0', '0'), 'Ross County')
+('Hamilton Academical', ('1', '0'), 'Greenock Morton')
+('Hamilton Academical', ('3', '2'), 'Clyde')
+('Ayr United', ('1', '0'), 'Hamilton Academical')
+
+
+###### Last Matchs of Inverness CT ######
+
+('Hamilton Academical', ('2', '1'), 'Inverness CT')
+('Inverness CT', ('0', '3'), 'Hamilton Academical')
+('Livingston', ('0', '3'), 'Inverness CT')
+('Inverness CT', ('2', '2'), 'Greenock Morton')
+('Inverness CT', ('3', '0'), "Queen's Park")
+('Raith Rovers', ('2', '2'), 'Inverness CT')
+('Inverness CT', ('0', '0'), "Queen's Park")
+('Arbroath', ('1', '4'), 'Inverness CT')
+('Inverness CT', ('6', '1'), 'Cove Rangers')
+('Partick Thistle', ('5', '1'), 'Inverness CT')
+
+
+###### Last Matchs of USA Women ######
+
+('USA Women', ('2', '1'), 'Brazil Women')
+('USA Women', ('1', '0'), 'Japan Women')
+('USA Women', ('2', '0'), 'Canada Women')
+('New Zealand Women', ('0', '5'), 'USA Women')
+('New Zealand Women', ('0', '4'), 'USA Women')
+('USA Women', ('2', '1'), 'Germany Women')
+('USA Women', ('1', '2'), 'Germany Women')
+('Spain Women', ('2', '0'), 'USA Women')
+('England Women', ('2', '1'), 'USA Women')
+('USA Women', ('2', '1'), 'Nigeria Women')
+
+
+###### Last Matchs of Brazil Women ######
+
+('USA Women', ('2', '1'), 'Brazil Women')
+('Brazil Women', ('0', '2'), 'Canada Women')
+('Japan Women', ('0', '1'), 'Brazil Women')
+('Brazil Women', ('2', '1'), 'Canada Women')
+('Brazil Women', ('1', '2'), 'Canada Women')
+('Italy Women', ('0', '1'), 'Brazil Women')
+('Norway Women', ('1', '4'), 'Brazil Women')
+('South Africa Women', ('0', '6'), 'Brazil Women')
+('South Africa Women', ('0', '3'), 'Brazil Women')
+('Colombia Women', ('0', '1'), 'Brazil Women')
+
+
+###### Last Matchs of BYeni Malatyaspor U19 ######
+
+('Bursaspor U19', ('1', '1'), 'Yeni Malatyaspor U19')
+('Yeni Malatyaspor U19', ('2', '0'), 'Atiker Konyaspor U19')
+('Besiktas U19', ('4', '0'), 'Yeni Malatyaspor U19')
+('Yeni Malatyaspor U19', ('3', '3'), 'Antalyaspor U19')
+('Yeni Malatyaspor U19', ('1', '2'), 'Trabzonspor U19')
+('Yeni Malatyaspor U19', ('0', '1'), 'Altinordu FK U19')
+('Giresunspor U19', ('1', '0'), 'Yeni Malatyaspor U19')
+('Yeni Malatyaspor U19', ('2', '1'), 'Umraniyespor U19')
+('Demir Grup Sivasspor U19', ('5', '0'), 'Yeni Malatyaspor U19')
+('Yeni Malatyaspor U19', ('4', '1'), 'Kasimpasa U19')
+
+
+###### Last Matchs of Bursaspor U19 ######
+
+('Atiker Konyaspor U19', ('2', '0'), 'Boluspor U19')
+('Boluspor U19', ('2', '2'), 'Antalyaspor U19')
+('Altinordu FK U19', ('4', '0'), 'Boluspor U19')
+('Boluspor U19', ('2', '1'), 'Umraniyespor U19')
+('Boluspor U19', ('1', '2'), 'Kasimpasa U19')
+('Bursaspor U19', ('3', '0'), 'Boluspor U19')
+('Boluspor U19', ('0', '4'), 'Besiktas U19')
+('Trabzonspor U19', ('3', '0'), 'Boluspor U19')
+('Boluspor U19', ('1', '0'), 'Giresunspor U19')
+('Demir Grup Sivasspor U19', ('7', '1'), 'Boluspor U19')
+
+
+###### Last Matchs of Polisi Tanzania FC ######
+
+('Polisi Tanzania FC', ('1', '0'), 'Tanzania Prisons')
+('Polisi Tanzania FC', ('0', '0'), 'Kagera Sugar')
+('Geita Gold FC', ('1', '1'), 'Polisi Tanzania FC')
+('Namungo FC', ('0', '2'), 'Polisi Tanzania FC')
+('Polisi Tanzania FC', ('0', '0'), 'Ruvu Shooting')
+('Polisi Tanzania FC', ('3', '3'), 'Coastal Union')
+('Kinondoni MC', ('2', '0'), 'Polisi Tanzania FC')
+('Young Africans', ('3', '0'), 'Polisi Tanzania FC')
+('Polisi Tanzania FC', ('0', '1'), 'Azam FC')
+('Polisi Tanzania FC', ('1', '3'), 'Simba SC')
+
+
+###### Last Matchs of Polisi Mbeya City ######
+
+('Polisi Tanzania FC', ('0', '1'), 'Mbeya City')
+('Coastal Union', ('1', '0'), 'Mbeya City')
+('Ihefu FC', ('2', '0'), 'Mbeya City')
+('Mbeya City', ('1', '0'), 'Mtibwa Sugar')
+('Simba SC', ('3', '2'), 'Mbeya City')
+('Azam FC', ('6', '1'), 'Mbeya City')
+('Mbeya City', ('1', '2'), 'Tanzania Prisons')
+('Mbeya City', ('1', '1'), 'Singida Big Stars')
+('Mbeya City', ('1', '2'), 'Dodoma Jiji FC')
+('Kinondoni MC', ('1', '1'), 'Mbeya City')
+
+
+###### Last Matchs of Domzale ######
+
+('NK Bravo', ('0', '2'), 'Domzale')
+('Domzale', ('0', '4'), 'Tabor')
+('Domzale', ('8', '0'), 'FC Kolkheti Khobi')
+('Domzale', ('4', '3'), 'Aluminij')
+('Domzale', ('0', '0'), 'Kolubara')
+('Fehervar FC', ('3', '0'), 'Domzale')
+('Domzale', ('6', '0'), 'Jadran')
+('Mura', ('0', '1'), 'Domzale')
+('Domzale', ('2', '1'), 'NK Celje')
+('Radomlje', ('0', '2'), 'Domzale')
+
+
+###### Last Matchs of Maribor ######
+
+('Maribor', ('2', '0'), 'Olimpija Ljubljana')
+('Koper', ('0', '1'), 'Maribor')
+('Shakhtar Donetsk', ('4', '4'), 'Maribor')
+('Maribor', ('1', '1'), 'Slavia Sofia')
+('Maribor', ('2', '0'), 'Aluminij')
+('Maribor', ('2', '1'), 'Gorica')
+('Maribor', ('7', '0'), 'Radomlje')
+('Maribor', ('3', '0'), 'NK Bravo')
+('Tabor', ('0', '4'), 'Maribor')
+('Maribor', ('3', '1'), 'NK Krka')
+
+
+###### Last Matchs of Spartak Myjava Women ######
+
+('MFK Ruzomberok Women', ('0', '4'), 'Spartak Myjava Women')
+('Spartak Myjava Women', ('16', '0'), 'Nove Zamky Women')
+('Skf Zilina Women', ('0', '14'), 'Spartak Myjava Women')
+('Spartak Myjava Women', ('5', '0'), 'SK Slovan Bratislava Women')
+('Spartak Myjava Women', ('5', '0'), 'GFC Topolcany Women')
+('Spartak Myjava Women', ('6', '2'), 'Slc Banska Bystrica Women')
+('AS Trencin Women', ('0', '3'), 'Spartak Myjava Women')
+('Spartak Myjava Women', ('5', '0'), 'FC Petrzalka 1898 Women')
+('FC Spartak Trnava Women', ('0', '2'), 'Spartak Myjava Women')
+('Nove Zamky Women', ('0', '7'), 'Spartak Myjava Women')
+
+
+###### Last Matchs of FC Spartak Trnava Women ######
+
+('FC Spartak Trnava Women', ('8', '0'), 'Slc Banska Bystrica Women')
+('AS Trencin Women', ('3', '4'), 'FC Spartak Trnava Women')
+('FC Spartak Trnava Women', ('3', '0'), 'FC Petrzalka 1898 Women')
+('GFC Topolcany Women', ('0', '0'), 'FC Spartak Trnava Women')
+('MFK Ruzomberok Women', ('3', '1'), 'FC Spartak Trnava Women')
+('Nove Zamky Women', ('0', '6'), 'FC Spartak Trnava Women')
+('FC Spartak Trnava Women', ('5', '0'), 'Skf Zilina Women')
+('SK Slovan Bratislava Women', ('3', '0'), 'FC Spartak Trnava Women')
+('FC Spartak Trnava Women', ('0', '2'), 'Spartak Myjava Women')
+('Slc Banska Bystrica Women', ('1', '3'), 'FC Spartak Trnava Women')
+
+
+###### Last Matchs of Vozdovac ######
+
+('Kolubara', ('1', '0'), 'Vozdovac')
+('Vozdovac', ('0', '6'), 'FK Crvena Zvezda')
+('FK Radnicki 1923', ('0', '1'), 'Vozdovac')
+('Sturm Graz', ('2', '0'), 'Vozdovac')
+('Vozdovac', ('3', '3'), 'Wisla Plock')
+('Vozdovac', ('2', '3'), 'FK Mladost Gat')
+('Vozdovac', ('2', '0'), 'FK Spartak Subotica')
+('FK Mladost Novi Sad', ('1', '2'), 'Vozdovac')
+('Vozdovac', ('0', '0'), 'Napredak')
+('Novi Pazar', ('0', '0'), 'Vozdovac')
+
+
+###### Last Matchs of Mladost Lucani ######
+
+('Mladost Lucani', ('1', '1'), 'Vojvodina')
+('FK Radnik Surdulica', ('1', '0'), 'Mladost Lucani')
+('Radnicki Nis', ('2', '1'), 'Mladost Lucani')
+('Lokomotiv Plovdiv', ('1', '3'), 'Mladost Lucani')
+('Miedz Legnica', ('2', '3'), 'Mladost Lucani')
+('Mladost Lucani', ('1', '1'), 'FK Radnicki 1923')
+('Mladost Lucani', ('2', '1'), 'Kolubara')
+('Mladost Lucani', ('2', '0'), 'Kolubara')
+('FK Crvena Zvezda', ('2', '0'), 'Mladost Lucani')
+('Mladost Lucani', ('0', '0'), 'FK Radnicki 1923')
+
+
+###### Last Matchs of Napredak ######
+
+('Napredak', ('0', '1'), 'Novi Pazar')
+('TSC Backa Topola', ('2', '0'), 'Napredak')
+('Napredak', ('0', '1'), 'Partizan Beograd')
+('Aktobe', ('0', '0'), 'Napredak')
+('Napredak', ('1', '0'), 'Vorskla')
+('Shamakhi FK', ('0', '1'), 'Napredak')
+('Javor', ('2', '1'), 'Napredak')
+('Napredak', ('0', '0'), 'Cukaricki')
+('Vozdovac', ('0', '0'), 'Napredak')
+('Napredak', ('0', '2'), 'Vojvodina')
+
+
+###### Last Matchs of Radnicki Nis ######
+
+('Radnicki Nis', ('0', '0'), 'FK Radnik Surdulica')
+('Novi Pazar', ('0', '0'), 'Radnicki Nis')
+('Radnicki Nis', ('2', '1'), 'Mladost Lucani')
+('Krylya Sovetov Samara', ('1', '4'), 'Radnicki Nis')
+('TSC Backa Topola', ('2', '0'), 'Radnicki Nis')
+('Radnicki Nis', ('3', '0'), 'FK IMT Beograd')
+('Radnicki Nis', ('1', '1'), 'Kolubara')
+('Partizan Beograd', ('4', '0'), 'Radnicki Nis')
+('Radnicki Nis', ('1', '2'), 'FK Crvena Zvezda')
+('Javor', ('0', '0'), 'Radnicki Nis')
+
+
+###### Last Matchs of Al-Ettifaq ######
+
+('Al-Ettifaq', ('0', '3'), 'Al Ittihad')
+('Al Ittihad', ('5', '0'), 'Al Adalh')
+('Al Taee', ('0', '1'), 'Al Ittihad')
+('Al Ittihad', ('2', '0'), 'Al Feiha')
+('Al Ittihad', ('3', '1'), 'Al Nassr FC')
+('Al Ittihad', ('3', '0'), 'Al Feiha')
+('Al Batin', ('1', '2'), 'Al Ittihad')
+('Al Shabab', ('1', '1'), 'Al Ittihad')
+('Al Ittihad', ('0', '1'), 'Al Hilal')
+('Abha', ('1', '2'), 'Al Ittihad')
+
+
+###### Last Matchs of Al-Raed ######
+
+('Al-Wehda', ('2', '2'), 'Al-Raed')
+('Al-Raed', ('3', '1'), 'Abha')
+('Al Khaleej', ('3', '0'), 'Al-Raed')
+('Al-Raed', ('2', '4'), 'Al Feiha')
+('Al-Raed', ('1', '1'), 'Al Hilal')
+('Damac FC', ('1', '2'), 'Al-Raed')
+('Al-Raed', ('2', '3'), 'Al-Taawoun')
+('Al Batin', ('1', '2'), 'Al-Raed')
+('Al Batin', ('1', '0'), 'Al-Raed')
+('Al-Raed', ('1', '4'), 'Al Nassr FC')
+
+
+###### Last Matchs of Al-Taawoun ######
+
+('Al-Taawoun', ('1', '1'), 'Al Feiha')
+('Al Nassr FC', ('2', '1'), 'Al-Taawoun')
+('Al-Taawoun', ('1', '2'), 'Al Fateh FC')
+('Al Batin', ('0', '1'), 'Al-Taawoun')
+('Al-Taawoun', ('1', '1'), 'Al Shabab')
+('Al Taee', ('1', '3'), 'Al-Taawoun')
+('Al-Taawoun', ('0', '1'), 'Al Khaleej')
+('Al-Raed', ('2', '3'), 'Al-Taawoun')
+('Al Ittihad', ('3', '0'), 'Al-Taawoun')
+('Abha', ('4', '3'), 'Al-Taawoun')
+
+
+###### Last Matchs of Al Feiha ######
+
+('Al-Taawoun', ('1', '1'), 'Al Feiha')
+('Damac FC', ('1', '1'), 'Al Feiha')
+('Al Feiha', ('2', '0'), 'Al-Wehda')
+('Al Ittihad', ('2', '0'), 'Al Feiha')
+('Al Feiha', ('1', '0'), 'Al Hilal')
+('Al Ittihad', ('3', '0'), 'Al Feiha')
+('Al-Raed', ('2', '4'), 'Al Feiha')
+('Al Feiha', ('2', '2'), 'Al Batin')
+('Al Fateh FC', ('0', '2'), 'Al Feiha')
+('Al Feiha', ('2', '1'), 'Al Taee')
+
+
+###### Last Matchs of FC Buzau ######
+
+('Otelul Galati', ('0', '2'), 'FC Buzau')
+('Steaua Bucuresti', ('1', '1'), 'FC Buzau')
+('FC Buzau', ('0', '1'), 'Concordia Chiajna')
+('FC Unirea Dej', ('2', '3'), 'FC Buzau')
+('FC Buzau', ('1', '3'), 'UTA Arad')
+('FC Buzau', ('3', '1'), 'Viitorul Pandurii Targu Jiu')
+('Otelul Galati', ('1', '1'), 'FC Buzau')
+('FC Buzau', ('0', '0'), 'Progresul Spartac')
+('FC Buzau', ('0', '1'), 'Botosani')
+('ASU Politehnica Timisoara', ('1', '1'), 'FC Buzau')
+
+
+###### Last Matchs of FC Brasov ######
+
+('FC Brasov', ('0', '2'), 'Dinamo Bucuresti')
+('Steaua Bucuresti', ('0', '1'), 'FC Brasov')
+('FC Brasov', ('2', '2'), 'CSM Politehnica Iasi')
+('Concordia Chiajna', ('0', '1'), 'FC Brasov')
+('FC Brasov', ('4', '0'), 'CSC Dumbravita')
+('FC Unirea Dej', ('2', '1'), 'FC Brasov')
+('FC Brasov', ('1', '1'), 'Miercurea Ciuc')
+('Viitorul Pandurii Targu Jiu', ('2', '3'), 'FC Brasov')
+('FC Brasov', ('0', '0'), 'CSM Slatina')
+('Otelul Galati', ('2', '1'), 'FC Brasov')
+
+
+###### Last Matchs of Olympic Niamey ######
+
+('Liberte', ('2', '1'), 'Olympic Niamey')
+('Olympic Niamey', ('1', '0'), 'Jangorzo')
+('Espoir', ('1', '0'), 'Olympic Niamey')
+('Olympic Niamey', ('1', '2'), 'As Police')
+('Tahoua', ('1', '1'), 'Olympic Niamey')
+('Olympic Niamey', ('0', '0'), 'Nigelec')
+('Akokana', ('0', '0'), 'Olympic Niamey')
+('Urana', ('0', '0'), 'Olympic Niamey')
+('Douanes Niamey', ('1', '1'), 'Olympic Niamey')
+('Olympic Niamey', ('2', '1'), 'Sahel')
+
+
+###### Last Matchs of US Gendarmerie ######
+
+('Akokana', ('0', '1'), 'US Gendarmerie')
+('Urana', ('0', '0'), 'US Gendarmerie')
+('Douanes Niamey', ('2', '1'), 'US Gendarmerie')
+('US Gendarmerie', ('1', '0'), 'AS FAN')
+('As Police', ('1', '0'), 'US Gendarmerie')
+('US Gendarmerie', ('3', '1'), 'Tahoua')
+('US Gendarmerie', ('0', '0'), 'AS GNN')
+('Sahel', ('1', '0'), 'US Gendarmerie')
+('Nigelec', ('0', '1'), 'US Gendarmerie')
+('Jangorzo', ('0', '1'), 'US Gendarmerie')
+
+
+###### Last Matchs of Chinland FC ######
+
+('Chinland FC', ('0', '5'), 'Yangon United')
+('Chinland FC', ('0', '2'), 'Shan United')
+('Chinland FC', ('0', '2'), 'Yangon United')
+('Ayeyawady United', ('5', '3'), 'Chinland FC')
+('Chinland FC', ('2', '2'), 'Rakhine United')
+('Yadanarbon FC', ('1', '0'), 'Chinland FC')
+('Myawady FC', ('5', '1'), 'Chinland FC')
+('Sagaing United', ('1', '2'), 'Chinland FC')
+('Chinland FC', ('1', '3'), 'Ispe FC')
+('Chinland FC', ('0', '1'), 'Hantharwady United FC')
+
+
+###### Last Matchs of Yangon United ######
+
+('Chinland FC', ('0', '5'), 'Yangon United')
+('Yangon United', ('0', '0'), 'Ayeyawady United')
+('Yadanarbon FC', ('2', '4'), 'Yangon United')
+('Chinland FC', ('0', '2'), 'Yangon United')
+('Yangon United', ('3', '0'), 'Ispe FC')
+('Hantharwady United FC', ('1', '0'), 'Yangon United')
+('Yangon United', ('1', '0'), 'Myawady FC')
+('Yangon United', ('10', '0'), 'Rakhine United')
+('Yangon United', ('0', '0'), 'Shan United')
+('Sagaing United', ('0', '3'), 'Yangon United')
+
+
+###### Last Matchs of Myawady FC ######
+
+('Myawady FC', ('1', '1'), 'Hantharwady United FC')
+('Rakhine United', ('0', '3'), 'Myawady FC')
+('Ispe FC', ('0', '0'), 'Myawady FC')
+('Myawady FC', ('2', '1'), 'Ayeyawady United')
+('Hantharwady United FC', ('3', '1'), 'Myawady FC')
+('Myawady FC', ('0', '1'), 'Yadanarbon FC')
+('Yangon United', ('1', '0'), 'Myawady FC')
+('Myawady FC', ('5', '1'), 'Chinland FC')
+('Myawady FC', ('2', '1'), 'Sagaing United')
+('Shan United', ('1', '0'), 'Myawady FC')
+
+
+###### Last Matchs of Hantharwady United FC ######
+
+('Myawady FC', ('1', '1'), 'Hantharwady United FC')
+('Yadanarbon FC', ('2', '1'), 'Hantharwady United FC')
+('Shan United', ('2', '0'), 'Hantharwady United FC')
+('Hantharwady United FC', ('3', '1'), 'Myawady FC')
+('Hantharwady United FC', ('1', '0'), 'Yangon United')
+('Ayeyawady United', ('0', '2'), 'Hantharwady United FC')
+('Hantharwady United FC', ('3', '1'), 'Ispe FC')
+('Sagaing United', ('0', '3'), 'Hantharwady United FC')
+('Hantharwady United FC', ('1', '0'), 'Rakhine United')
+('Chinland FC', ('0', '1'), 'Hantharwady United FC')
+
+
+###### Last Matchs of Mornar ######
+
+('Rudar Pljevlja', ('0', '1'), 'Mornar')
+('Mornar', ('1', '0'), 'Decic Tuzi')
+('Mornar', ('1', '2'), 'Buducnost Podgorica')
+('FK Iskra', ('2', '1'), 'Mornar')
+('Petrovac', ('1', '2'), 'Mornar')
+('Mornar', ('1', '0'), 'Jezero')
+('Jedinstvo BP', ('1', '0'), 'Mornar')
+('FK Iskra', ('1', '1'), 'Mornar')
+('Mornar', ('0', '1'), 'FK Arsenal Tivat')
+('Sutjeska', ('1', '1'), 'Mornar')
+
+
+###### Last Matchs of Sutjeska ######
+
+('Sutjeska', ('4', '2'), 'Jezero')
+('Sutjeska', ('3', '0'), 'FK Leotar')
+('SC Dnipro-1', ('0', '0'), 'Sutjeska')
+('Arsenal Tula', ('4', '1'), 'Sutjeska')
+('Jedinstvo BP', ('0', '4'), 'Sutjeska')
+('FK Arsenal Tivat', ('2', '2'), 'Sutjeska')
+('Sutjeska', ('2', '0'), 'Petrovac')
+('Sutjeska', ('4', '0'), 'Rudar Pljevlja')
+('Decic Tuzi', ('1', '2'), 'Sutjeska')
+('Sutjeska', ('0', '1'), 'Buducnost Podgorica')
+
+
+###### Last Matchs of FK Iskra ######
+
+('Decic Tuzi', ('0', '2'), 'FK Iskra')
+('FK Iskra', ('0', '4'), 'Rudar Pljevlja')
+('FK Iskra', ('3', '0'), 'Buducnost Podgorica')
+('Petrovac', ('1', '0'), 'FK Iskra')
+('FK Iskra', ('2', '1'), 'Mornar')
+('Jezero', ('0', '0'), 'FK Iskra')
+('FK Iskra', ('1', '3'), 'Jedinstvo BP')
+('FK Arsenal Tivat', ('3', '0'), 'FK Iskra')
+('FK Iskra', ('1', '1'), 'Mornar')
+('FK Iskra', ('1', '2'), 'Sutjeska')
+
+
+###### Last Matchs of FK Rudar Pljevlja ######
+
+('Rudar Pljevlja', ('0', '1'), 'Mornar')
+('Rudar Pljevlja', ('1', '4'), 'Jarun')
+('Rudar Prijedor', ('0', '1'), 'Rudar Pljevlja')
+('FK Iskra', ('0', '4'), 'Rudar Pljevlja')
+('Jezero', ('0', '0'), 'Rudar Pljevlja')
+('Jedinstvo BP', ('0', '0'), 'Rudar Pljevlja')
+('Rudar Pljevlja', ('0', '0'), 'FK Arsenal Tivat')
+('Sutjeska', ('4', '0'), 'Rudar Pljevlja')
+('Rudar Pljevlja', ('0', '1'), 'Petrovac')
+('Rudar Pljevlja', ('1', '1'), 'Decic Tuzi')
+
+
+###### Last Matchs of Jezero ######
+
+('Jezero', ('1', '0'), 'FK Arsenal Tivat')
+('Sutjeska', ('4', '2'), 'Jezero')
+('Jezero', ('0', '0'), 'Rudar Pljevlja')
+('Jezero', ('0', '0'), 'Decic Tuzi')
+('Buducnost Podgorica', ('2', '1'), 'Jezero')
+('Jezero', ('0', '0'), 'FK Iskra')
+('Mornar', ('1', '0'), 'Jezero')
+('Petrovac', ('2', '1'), 'Jezero')
+('Jezero', ('0', '2'), 'Jedinstvo BP')
+('FK Arsenal Tivat', ('1', '1'), 'Jezero')
+
+
+###### Last Matchs of FK Arsenal Tivat ######
+
+('Jezero', ('1', '0'), 'FK Arsenal Tivat')
+('FK Arsenal Tivat', ('1', '0'), 'Jedinstvo BP')
+('FK Arsenal Tivat', ('1', '1'), 'Petrovac')
+('FK Arsenal Tivat', ('2', '2'), 'Sutjeska')
+('Rudar Pljevlja', ('0', '0'), 'FK Arsenal Tivat')
+('FK Arsenal Tivat', ('1', '2'), 'Decic Tuzi')
+('Buducnost Podgorica', ('2', '0'), 'FK Arsenal Tivat')
+('FK Arsenal Tivat', ('3', '0'), 'FK Iskra')
+('FK Arsenal Tivat', ('0', '0'), 'Jedinstvo BP')
+('Mornar', ('0', '1'), 'FK Arsenal Tivat')
+
+
+###### Last Matchs of Jedinstvo BP ######
+
+('Jedinstvo BP', ('2', '1'), 'Petrovac')
+('FK Arsenal Tivat', ('1', '0'), 'Jedinstvo BP')
+('Jedinstvo BP', ('0', '4'), 'Sutjeska')
+('Jedinstvo BP', ('0', '0'), 'Rudar Pljevlja')
+('Decic Tuzi', ('0', '1'), 'Jedinstvo BP')
+('Jedinstvo BP', ('0', '1'), 'Buducnost Podgorica')
+('FK Iskra', ('1', '3'), 'Jedinstvo BP')
+('Jedinstvo BP', ('1', '0'), 'Mornar')
+('FK Arsenal Tivat', ('0', '0'), 'Jedinstvo BP')
+('Jezero', ('0', '2'), 'Jedinstvo BP')
+
+
+###### Last Matchs of Petrovac ######
+
+('Jedinstvo BP', ('2', '1'), 'Petrovac')
+('Petrovac', ('1', '1'), 'Buducnost Podgorica')
+('FK Arsenal Tivat', ('1', '1'), 'Petrovac')
+('Petrovac', ('1', '0'), 'FK Iskra')
+('Sutjeska', ('2', '0'), 'Petrovac')
+('Petrovac', ('1', '2'), 'Mornar')
+('Rudar Pljevlja', ('0', '1'), 'Petrovac')
+('Petrovac', ('2', '1'), 'Jezero')
+('Decic Tuzi', ('1', '1'), 'Petrovac')
+('Petrovac', ('1', '1'), 'Jedinstvo BP')
+
+
+###### Last Matchs of Club Santos Laguna U20 ######
+
+('Atletico San Luis U20', ('0', '1'), 'Club Santos Laguna U20')
+('FC Juarez U20', ('1', '0'), 'Club Santos Laguna U20')
+('Club Santos Laguna U20', ('0', '1'), 'America Mexico U20')
+('Atlas U20', ('1', '2'), 'Club Santos Laguna U20')
+('Mazatlan FC U20', ('2', '3'), 'Club Santos Laguna U20')
+('Club Santos Laguna U20', ('1', '6'), 'Pumas Unam U20')
+('Club Santos Laguna U20', ('0', '1'), 'Tigres U20')
+('Pachuca U20', ('1', '0'), 'Club Santos Laguna U20')
+('Club Santos Laguna U20', ('0', '0'), 'Pachuca U20')
+('Club Santos Laguna U20', ('2', '3'), 'Mazatlan FC U20')
+
+
+###### Last Matchs of Deportivo Toluca FC U20 ######
+
+('Pachuca U20', ('1', '2'), 'Deportivo Toluca FC U20')
+('Deportivo Toluca FC U20', ('0', '1'), 'Cruz Azul U20')
+('Monterrey U20', ('1', '0'), 'Deportivo Toluca FC U20')
+('Deportivo Toluca FC U20', ('2', '1'), 'Leon U20')
+('Chivas Guadalajara U20', ('2', '1'), 'Deportivo Toluca FC U20')
+('Deportivo Toluca FC U20', ('2', '0'), 'America Mexico U20')
+('Atlas U20', ('2', '2'), 'Deportivo Toluca FC U20')
+('Deportivo Toluca FC U20', ('2', '2'), 'Queretaro U20')
+('Deportivo Toluca FC U20', ('1', '0'), 'Club Santos Laguna U20')
+('Mazatlan FC U20', ('1', '0'), 'Deportivo Toluca FC U20')
+
+
+###### Last Matchs of CF America Women ######
+
+('Santos Laguna Women', ('1', '1'), 'CF America Women')
+('CF America Women', ('2', '0'), 'Club Leon Women')
+('Necaxa Women', ('0', '6'), 'CF America Women')
+('CF America Women', ('5', '0'), 'Club Tijuana Women')
+('CF America Women', ('7', '0'), 'Puebla Women')
+('Cruz Azul Women', ('1', '1'), 'CF America Women')
+('Tigres Women', ('2', '0'), 'CF America Women')
+('CF America Women', ('0', '1'), 'Tigres Women')
+('CD Guadalajara Chivas Women', ('3', '3'), 'CF America Women')
+('CF America Women', ('3', '1'), 'CD Guadalajara Chivas Women')
+
+
+###### Last Matchs of Atletico de San Luis Women ######
+
+('Atletico de San Luis Women', ('4', '1'), 'Mazatlan FC Women')
+('Tigres Women', ('3', '1'), 'Atletico de San Luis Women')
+('Atletico de San Luis Women', ('5', '1'), 'Atlas Women')
+('Cruz Azul Women', ('3', '0'), 'Atletico de San Luis Women')
+('Atletico de San Luis Women', ('3', '1'), 'Club Leon Women')
+('Santos Laguna Women', ('2', '0'), 'Atletico de San Luis Women')
+('Necaxa Women', ('0', '2'), 'Atletico de San Luis Women')
+('Atletico de San Luis Women', ('0', '2'), 'Santos Laguna Women')
+('Mazatlan FC Women', ('1', '3'), 'Atletico de San Luis Women')
+('Atletico de San Luis Women', ('1', '0'), 'Queretaro Women')
+
+
+###### Last Matchs of Calor de San Pedro ######
+
+('Calor de San Pedro', ('4', '0'), 'Ciervos')
+('Huracanes Izcalli', ('2', '1'), 'Calor de San Pedro')
+('Calor de San Pedro', ('1', '1'), 'CD Avispones de Chilpancingo')
+('Club Canoneros Marina', ('0', '5'), 'Calor de San Pedro')
+("T'HO Mayas FC", ('0', '1'), 'Calor de San Pedro')
+('Alebrijes Oaxaca II', ('0', '2'), 'Calor de San Pedro')
+('Calor de San Pedro', ('1', '2'), 'Alebrijes Oaxaca II')
+('Mazorqueros FC', ('0', '2'), 'Calor de San Pedro')
+('Calor de San Pedro', ('1', '0'), 'Mazorqueros FC')
+('Calor de San Pedro', ('1', '1'), 'CD Avispones de Chilpancingo')
+
+
+###### Last Matchs of Ciervos ######
+
+('Calor de San Pedro', ('4', '0'), 'Ciervos')
+('Club Atletico Angelopolis', ('0', '6'), 'Ciervos')
+('Ciervos', ('0', '2'), 'Huracanes Izcalli')
+('CD Avispones de Chilpancingo', ('2', '1'), 'Ciervos')
+('Ciervos', ('1', '1'), 'Club Canoneros Marina')
+("T'HO Mayas FC", ('4', '1'), 'Ciervos')
+('Ciervos', ('2', '1'), 'Alebrijes Oaxaca II')
+('Zitacuaro', ('2', '0'), 'Ciervos')
+('Ciervos', ('1', '6'), 'Pioneros de Cancun')
+('Mazorqueros FC', ('4', '0'), 'Ciervos')
+
+
+###### Last Matchs of Pumas Tabasco ######
+
+('Pumas Tabasco', ('0', '1'), 'Celaya')
+('Tapatio', ('3', '1'), 'Pumas Tabasco')
+('Leones Negros', ('3', '3'), 'Pumas Tabasco')
+('Pumas Tabasco', ('2', '1'), 'Correcaminos de la UAT')
+('Dorados', ('1', '2'), 'Pumas Tabasco')
+('Pumas Tabasco', ('1', '1'), 'CD Tepatitlan de Morelos')
+('Atlante', ('1', '1'), 'Pumas Tabasco')
+('Pumas Tabasco', ('3', '0'), 'Tlaxcala F.C.')
+('Raya2 Expansion', ('2', '2'), 'Pumas Tabasco')
+('Pumas Tabasco', ('0', '3'), 'Dorados')
+
+
+###### Last Matchs of Celaya ######
+
+('Pumas Tabasco', ('0', '1'), 'Celaya')
+('Atlante', ('1', '0'), 'Celaya')
+('Celaya', ('4', '2'), 'Dorados')
+('Tapatio', ('2', '2'), 'Celaya')
+('Celaya', ('1', '0'), 'Leones Negros')
+('Celaya', ('1', '1'), 'Raya2 Expansion')
+('Alebrijes Oaxaca', ('0', '1'), 'Celaya')
+('Celaya', ('2', '0'), 'Cancun FC')
+('Celaya', ('1', '3'), 'Atlante')
+('Atlante', ('0', '0'), 'Celaya')
+
+
+###### Last Matchs of Venados FC ######
+
+('Venados FC', ('1', '0'), 'Alacranes de Durango')
+('Venados FC', ('1', '0'), 'Cimarrones de Sonora')
+('Mineros de Zacatecas', ('2', '1'), 'Venados FC')
+('Venados FC', ('0', '1'), 'Raya2 Expansion')
+('Atlético Morelia', ('1', '0'), 'Venados FC')
+('Venados FC', ('2', '1'), 'Alebrijes Oaxaca')
+('Correcaminos de la UAT', ('1', '1'), 'Venados FC')
+('Venados FC', ('1', '0'), 'CD Tepatitlan de Morelos')
+('Leones Negros', ('3', '0'), 'Venados FC')
+('Venados FC', ('2', '0'), 'Leones Negros')
+
+
+###### Last Matchs of Alacranes de Durango ######
+
+('Venados FC', ('1', '0'), 'Alacranes de Durango')
+('Alacranes de Durango', ('1', '1'), 'Alebrijes Oaxaca')
+('Leones Negros', ('1', '0'), 'Alacranes de Durango')
+('Alacranes de Durango', ('4', '3'), 'Cancun FC')
+('Mineros de Zacatecas', ('1', '2'), 'Alacranes de Durango')
+('Alacranes de Durango', ('0', '2'), 'CD Tepatitlan de Morelos')
+('Atlético Morelia', ('3', '0'), 'Alacranes de Durango')
+('Alacranes de Durango', ('0', '4'), 'Cimarrones de Sonora')
+('Celaya', ('1', '0'), 'Alacranes de Durango')
+('Alacranes de Durango', ('0', '1'), 'Celaya')
+
+
+###### Last Matchs of CD Tepatitlan de Morelos ######
+
+('CD Tepatitlan de Morelos', ('2', '2'), 'Mineros de Zacatecas')
+('CD Tepatitlan de Morelos', ('1', '1'), 'Leones Negros')
+('Alebrijes Oaxaca', ('0', '3'), 'CD Tepatitlan de Morelos')
+('CD Tepatitlan de Morelos', ('2', '0'), 'Atlético Morelia')
+('Pumas Tabasco', ('1', '1'), 'CD Tepatitlan de Morelos')
+('Alacranes de Durango', ('0', '2'), 'CD Tepatitlan de Morelos')
+('CD Tepatitlan de Morelos', ('3', '0'), 'Atletico La Paz')
+('Venados FC', ('1', '0'), 'CD Tepatitlan de Morelos')
+('Venados FC', ('4', '2'), 'CD Tepatitlan de Morelos')
+('Cancun FC', ('1', '2'), 'CD Tepatitlan de Morelos')
+
+
+###### Last Matchs of Mineros de Zacatecas ######
+
+('CD Tepatitlan de Morelos', ('2', '2'), 'Mineros de Zacatecas')
+('Mineros de Zacatecas', ('2', '3'), 'Raya2 Expansion')
+('Mineros de Zacatecas', ('2', '1'), 'Venados FC')
+('Atlante', ('3', '0'), 'Mineros de Zacatecas')
+('Mineros de Zacatecas', ('1', '2'), 'Alacranes de Durango')
+('Tlaxcala F.C.', ('1', '2'), 'Mineros de Zacatecas')
+('Mineros de Zacatecas', ('1', '1'), 'Dorados')
+('Atletico La Paz', ('2', '0'), 'Mineros de Zacatecas')
+('Atlante', ('2', '1'), 'Mineros de Zacatecas')
+('Mineros de Zacatecas', ('1', '2'), 'Atlante')
+
+
+###### Last Matchs of Cruz Azul ######
+
+('Cruz Azul', ('1', '0'), 'Atlas')
+('Puebla', ('1', '3'), 'Cruz Azul')
+('Toluca', ('3', '1'), 'Cruz Azul')
+('Cruz Azul', ('0', '1'), 'Tigres')
+('Necaxa', ('1', '0'), 'Cruz Azul')
+('Cruz Azul', ('2', '3'), 'Monterrey')
+('Tijuana', ('1', '1'), 'Cruz Azul')
+('Cruz Azul', ('2', '0'), 'CD Guadalajara')
+('Cruz Azul', ('2', '1'), 'CF America')
+('Toluca', ('1', '1'), 'Cruz Azul')
+
+
+###### Last Matchs of Atlas ######
+
+('Cruz Azul', ('1', '0'), 'Atlas')
+('Atlas', ('0', '1'), 'Tigres')
+('Atlas', ('0', '2'), 'Monterrey')
+('Pumas', ('2', '2'), 'Atlas')
+('Atlas', ('0', '0'), 'Toluca')
+('Atlas', ('2', '2'), 'Club Santos Laguna')
+('Queretaro FC', ('3', '3'), 'Atlas')
+('Atlas', ('2', '1'), 'Mazatlan FC')
+('CD Guadalajara', ('1', '0'), 'Atlas')
+('Atlas', ('2', '1'), 'Mazatlan FC')
+
+
+###### Last Matchs of Al-Ittihad Misrati ######
+
+('Abu Salim', ('2', '0'), 'Al-Ittihad Misrati')
+('Asaria', ('1', '1'), 'Al-Ittihad Misrati')
+('Al-Ittihad Misrati', ('0', '0'), 'Al-Ittihad')
+('Al-Ittihad Misrati', ('0', '0'), 'Al-Madina')
+('Al-Khums', ('0', '0'), 'Al-Ittihad Misrati')
+('Al-Mahalla', ('0', '0'), 'Al-Ittihad Misrati')
+('Al Ahli Tripoli', ('4', '0'), 'Al-Ittihad Misrati')
+('Al-Ittihad Misrati', ('0', '0'), 'Olympic Azzaweya SC')
+('Asswehly SC', ('1', '0'), 'Al-Ittihad Misrati')
+('Al-Ittihad Misrati', ('1', '2'), 'Abu Salim')
+
+
+###### Last Matchs of Asswehly SC ######
+
+('Al-Khums', ('0', '2'), 'Asswehly SC')
+('Abu Salim', ('1', '0'), 'Asswehly SC')
+('Asswehly SC', ('1', '1'), 'Al-Mahalla')
+('Asswehly SC', ('3', '3'), 'Asaria')
+('Asswehly SC', ('2', '0'), 'Al Ahli Tripoli')
+('Olympic Azzaweya SC', ('3', '1'), 'Asswehly SC')
+('Al-Ittihad', ('2', '0'), 'Asswehly SC')
+('Al-Madina', ('0', '0'), 'Asswehly SC')
+('Asswehly SC', ('1', '0'), 'Al-Ittihad Misrati')
+('Asswehly SC', ('1', '0'), 'Al-Khums')
+
+
+###### Last Matchs of Al-Madina ######
+
+('Al-Madina', ('3', '1'), 'Olympic Azzaweya SC')
+('Al-Madina', ('1', '1'), 'Al Ahli Tripoli')
+('Al-Ittihad Misrati', ('0', '0'), 'Al-Madina')
+('Abu Salim', ('0', '0'), 'Al-Madina')
+('Al-Madina', ('0', '2'), 'Asaria')
+('Al-Ittihad', ('1', '0'), 'Al-Madina')
+('Al-Madina', ('0', '0'), 'Asswehly SC')
+('Al-Khums', ('0', '0'), 'Al-Madina')
+('Al-Madina', ('3', '3'), 'Al-Mahalla')
+
+
+###### Last Matchs of Al-Khums ######
+
+('Al-Khums', ('0', '2'), 'Asswehly SC')
+('Al-Khums', ('1', '1'), 'Al-Mahalla')
+('Olympic Azzaweya SC', ('1', '2'), 'Al-Khums')
+('Al Ahli Tripoli', ('1', '0'), 'Al-Khums')
+('Al-Khums', ('0', '0'), 'Al-Ittihad Misrati')
+('Al-Khums', ('0', '2'), 'Abu Salim')
+('Asaria', ('2', '1'), 'Al-Khums')
+('Al-Ittihad', ('1', '0'), 'Al-Khums')
+('Al-Khums', ('0', '0'), 'Al-Madina')
+('Asswehly SC', ('1', '0'), 'Al-Khums')
+
+
+###### Last Matchs of Al-Tahaddi ######
+
+('Al-Tahaddi', ('2', '0'), 'Shabaab Al Jabal')
+("Al Ta'awon SC", ('0', '0'), 'Al-Tahaddi')
+('Al-Tahaddi', ('0', '0'), 'Al Ahli')
+('Al-Tahaddi', ('1', '0'), 'Darnes')
+('Al-Hilal', ('2', '1'), 'Al-Tahaddi')
+('Al-Tahaddi', ('0', '0'), 'Al Sadaqa')
+('Al-Tahaddi', ('0', '1'), 'Al-Nasr')
+('Al-Tahaddi', ('0', '1'), 'Al-Akhdar')
+('Al-Suqoor', ('1', '0'), 'Al-Tahaddi')
+('Shabaab Al Jabal', ('0', '0'), 'Al-Tahaddi')
+
+
+###### Last Matchs of Al-Suqoor ######
+
+('Al-Suqoor', ('1', '0'), 'Al-Nasr')
+('Shabaab Al Jabal', ('0', '1'), 'Al-Suqoor')
+('Al-Suqoor', ('1', '1'), "Al Ta'awon SC")
+('Al Ahli', ('4', '3'), 'Al-Suqoor')
+('Al-Akhdar', ('0', '1'), 'Al-Suqoor')
+('Darnes', ('1', '0'), 'Al-Suqoor')
+('Al-Suqoor', ('0', '0'), 'Al-Hilal')
+('Al-Suqoor', ('1', '1'), 'Al Sadaqa')
+('Al-Suqoor', ('1', '0'), 'Al-Tahaddi')
+('Al-Nasr', ('3', '1'), 'Al-Suqoor')
+
+
+
+###### Last Matchs of Al Sadaqa ######
+
+('Al Sadaqa', ('1', '0'), "Al Ta'awon SC")
+('Al Ahli', ('1', '0'), 'Al Sadaqa')
+('Al Sadaqa', ('1', '1'), 'Darnes')
+('Al-Hilal', ('2', '0'), 'Al Sadaqa')
+('Al Sadaqa', ('3', '3'), 'Al-Nasr')
+('Al Sadaqa', ('2', '1'), 'Al-Akhdar')
+('Al-Tahaddi', ('0', '0'), 'Al Sadaqa')
+('Al-Suqoor', ('1', '1'), 'Al Sadaqa')
+('Al Sadaqa', ('1', '1'), 'Shabaab Al Jabal')
+("Al Ta'awon SC", ('0', '0'), 'Al Sadaqa')
+
+
+###### Last Matchs of Al Ta'awon SC ######
+
+('Al Sadaqa', ('1', '0'), "Al Ta'awon SC")
+("Al Ta'awon SC", ('0', '0'), 'Al-Tahaddi')
+('Al-Suqoor', ('1', '1'), "Al Ta'awon SC")
+("Al Ta'awon SC", ('3', '2'), 'Shabaab Al Jabal')
+('Al-Nasr', ('1', '1'), "Al Ta'awon SC")
+("Al Ta'awon SC", ('1', '0'), 'Al Ahli')
+('Darnes', ('0', '0'), "Al Ta'awon SC")
+('Al-Hilal', ('1', '1'), "Al Ta'awon SC")
+("Al Ta'awon SC", ('0', '0'), 'Al Sadaqa')
+('Al-Akhdar', ('4', '0'), "Al Ta'awon SC")
+
+
+###### Last Matchs of Trepca 89 ######
+
+('Trepca 89', ('0', '1'), 'Ballkani')
+('Llapi', ('2', '1'), 'Trepca 89')
+('Trepca 89', ('1', '0'), 'Drita')
+('Feronikeli', ('1', '0'), 'Trepca 89')
+('Trepca 89', ('1', '1'), 'Ballkani')
+('Trepca 89', ('0', '3'), 'FC Prishtina')
+('Trepca 89', ('3', '0'), 'KF Kika')
+('Dukagjini', ('1', '0'), 'Trepca 89')
+('Ferizaj', ('2', '3'), 'Trepca 89')
+('Trepca 89', ('1', '0'), 'Drenica')
+
+
+###### Last Matchs of Ballkani ######
+
+('Trepca 89', ('0', '1'), 'Ballkani')
+('Ballkani', ('2', '1'), 'Drenica')
+('Malisheva', ('2', '4'), 'Ballkani')
+('Ballkani', ('2', '0'), 'A&N')
+('Ballkani', ('1', '1'), 'FC Prishtina')
+('Llapi', ('0', '3'), 'Ballkani')
+('Trepca 89', ('1', '1'), 'Ballkani')
+('Gjilani', ('0', '3'), 'Ballkani')
+('KF Onix Banje', ('1', '3'), 'Ballkani')
+('Ballkani', ('2', '0'), 'Ferizaj')
+
+
+###### Last Matchs of Dukagjini ######
+
+('Dukagjini', ('0', '1'), 'Llapi')
+('Drita', ('5', '1'), 'Dukagjini')
+('Dukagjini', ('1', '0'), 'FC Prishtina')
+('FC Prishtina', ('3', '1'), 'Dukagjini')
+('Ferizaj', ('0', '0'), 'Dukagjini')
+('Dukagjini', ('2', '0'), 'KF Rilindja 1974')
+('Dukagjini', ('1', '0'), 'Trepca 89')
+('Drenica', ('0', '1'), 'Dukagjini')
+('Dukagjini', ('4', '0'), 'Malisheva')
+('Gjilani', ('1', '0'), 'Dukagjini')
+
+
+###### Last Matchs of Llapi ######
+
+('Dukagjini', ('0', '1'), 'Llapi')
+('Llapi', ('2', '1'), 'Trepca 89')
+('Drenica', ('0', '1'), 'Llapi')
+('KF Liria', ('2', '3'), 'Llapi')
+('Llapi', ('0', '3'), 'Ballkani')
+('Malisheva', ('0', '0'), 'Llapi')
+('Llapi', ('6', '2'), 'KF Vllaznia Pozheran')
+('Llapi', ('0', '1'), 'Gjilani')
+('Ballkani', ('1', '4'), 'Llapi')
+('Llapi', ('1', '2'), 'Ferizaj')
+
+
+###### Last Matchs of San Pedro ######
+
+('Lys Sassandra', ('0', '2'), 'San Pedro')
+('San Pedro', ('1', '1'), 'Sporting Gagnoa')
+('San Pedro', ('2', '0'), 'Racing Club Abidjan')
+('Academia F. Amadou Diallo', ('2', '0'), 'San Pedro')
+('San Pedro', ('2', '0'), 'Bassam')
+('Soa', ('3', '2'), 'San Pedro')
+('San Pedro', ('4', '0'), 'ES Bafing')
+('San Pedro', ('0', '1'), 'SOL FC')
+('Club Omnisports de Korhogo', ('1', '0'), 'San Pedro')
+('San Pedro', ('3', '0'), 'Bouake FC')
+
+
+###### Last Matchs of ASEC Mimosas ######
+
+('Rivers United FC', ('3', '0'), 'ASEC Mimosas')
+('ASEC Mimosas', ('0', '0'), 'Motema Pembe')
+('ASEC Mimosas', ('0', '0'), 'ES Bafing')
+('Soa', ('0', '1'), 'ASEC Mimosas')
+('Club Omnisports de Korhogo', ('1', '1'), 'ASEC Mimosas')
+('ASEC Mimosas', ('1', '1'), 'Bouake FC')
+("ASI D'Abengourou", ('0', '2'), 'ASEC Mimosas')
+('ASEC Mimosas', ('2', '0'), 'AS Denguele')
+('ASEC Mimosas', ('1', '1'), 'Lys Sassandra')
+("Stade D'abidjan", ('0', '2'), 'ASEC Mimosas')
+
+
+###### Last Matchs of Al Shorta ######
+
+('Al Kahrabaa', ('1', '3'), 'Al Shorta')
+('Al Shorta', ('3', '1'), 'Karbalaa')
+('Al-Qasim', ('0', '2'), 'Al Shorta')
+('Al Shorta', ('1', '0'), 'Al Najaf')
+('Newroz', ('2', '2'), 'Al Shorta')
+('Al Shorta', ('1', '0'), 'Zakho')
+('Al Shorta', ('4', '0'), 'Al Sinaah')
+('Al Karkh', ('2', '3'), 'Al Shorta')
+('Al Shorta', ('1', '1'), 'Naft Al Junoob')
+('Al Quwa Al Jawiya', ('1', '0'), 'Al Shorta')
+
+
+###### Last Matchs of Naft Maysan ######
+
+('Duhok', ('3', '1'), 'Naft Maysan')
+('Naft Maysan', ('1', '0'), 'Al Hedood')
+('Naft Maysan', ('1', '3'), 'Al Zawraa')
+('Al Kahrabaa', ('2', '1'), 'Naft Maysan')
+('Naft Maysan', ('1', '1'), 'Karbalaa')
+('Naft Maysan', ('3', '1'), 'Al-Qasim')
+('Al Najaf', ('5', '2'), 'Naft Maysan')
+('Naft Maysan', ('2', '1'), 'Newroz')
+('Zakho', ('0', '0'), 'Naft Maysan')
+('Naft Maysan', ('0', '0'), 'Al Sinaah')
+
+
+###### Last Matchs of Al Najaf ######
+
+('Naft Al Wasat', ('1', '1'), 'Al Najaf')
+('Al Najaf', ('1', '2'), 'Al Naft')
+('Al Najaf', ('0', '0'), 'Al Diwaniya')
+('Al Shorta', ('1', '0'), 'Al Najaf')
+('Al Najaf', ('0', '1'), 'Duhok')
+('Al Hedood', ('0', '0'), 'Al Najaf')
+('Al Najaf', ('5', '2'), 'Naft Maysan')
+('Al Kahrabaa', ('3', '1'), 'Al Najaf')
+('Al Najaf', ('3', '2'), 'Karbalaa')
+('Al-Qasim', ('0', '1'), 'Al Najaf')
+
+
+###### Last Matchs of Erbil ######
+
+('Erbil', ('0', '0'), 'Newroz')
+('Zakho', ('0', '0'), 'Erbil')
+('Erbil', ('0', '4'), 'Al Sinaah')
+('Al Karkh', ('3', '1'), 'Erbil')
+('Erbil', ('1', '1'), 'Naft Al Junoob')
+('Al Quwa Al Jawiya', ('2', '1'), 'Erbil')
+('Erbil', ('0', '2'), 'Al Talaba')
+('Erbil', ('0', '1'), 'Al Zawraa')
+('Naft Al Wasat', ('0', '0'), 'Erbil')
+('Erbil', ('2', '0'), 'Al Naft')
+
+
+###### Last Matchs of Al Hedood ######
+
+('Al Hedood', ('1', '1'), 'Duhok')
+('Al Zawraa', ('2', '2'), 'Al Hedood')
+('Naft Maysan', ('1', '0'), 'Al Hedood')
+('Al Hedood', ('1', '1'), 'Al Kahrabaa')
+('Karbalaa', ('2', '0'), 'Al Hedood')
+('Al-Qasim', ('0', '0'), 'Al Hedood')
+('Al Hedood', ('0', '0'), 'Al Najaf')
+('Newroz', ('3', '1'), 'Al Hedood')
+('Al Hedood', ('1', '1'), 'Zakho')
+('Al Sinaah', ('0', '1'), 'Al Hedood')
+
+
+###### Last Matchs of Al Duhok######
+
+('Al Hedood', ('1', '1'), 'Duhok')
+('Duhok', ('3', '1'), 'Naft Maysan')
+('Al Kahrabaa', ('3', '0'), 'Duhok')
+('Karbalaa', ('0', '1'), 'Duhok')
+('Duhok', ('2', '1'), 'Al-Qasim')
+('Al Najaf', ('0', '1'), 'Duhok')
+('Duhok', ('1', '0'), 'Newroz')
+('Zakho', ('1', '1'), 'Duhok')
+('Al Sinaah', ('1', '3'), 'Duhok')
+('Duhok', ('0', '2'), 'Al Karkh')
+
+
+###### Last Matchs of Al Diwaniya ######
+
+('Al Diwaniya', ('0', '2'), 'Al Kahrabaa')
+('Karbalaa', ('3', '1'), 'Al Diwaniya')
+('Al Diwaniya', ('1', '0'), 'Al-Qasim')
+('Al Najaf', ('0', '0'), 'Al Diwaniya')
+('Newroz', ('3', '1'), 'Al Diwaniya')
+('Al Diwaniya', ('1', '5'), 'Zakho')
+('Al Sinaah', ('3', '2'), 'Al Diwaniya')
+('Al Diwaniya', ('0', '3'), 'Al Karkh')
+('Naft Al Junoob', ('1', '1'), 'Al Diwaniya')
+('Al Diwaniya', ('0', '3'), 'Al Quwa Al Jawiya')
+
+
+###### Last Matchs of Al Kahrabaa ######
+
+('Al Diwaniya', ('0', '2'), 'Al Kahrabaa')
+('Al Kahrabaa', ('1', '3'), 'Al Shorta')
+('Al Kahrabaa', ('3', '0'), 'Duhok')
+('Al Hedood', ('1', '1'), 'Al Kahrabaa')
+('Al Kahrabaa', ('2', '1'), 'Naft Maysan')
+('Al Kahrabaa', ('0', '0'), 'Al Zawraa')
+('Karbalaa', ('1', '1'), 'Al Kahrabaa')
+('Al-Qasim', ('2', '1'), 'Al Kahrabaa')
+('Al Kahrabaa', ('3', '1'), 'Al Najaf')
+('Newroz', ('1', '2'), 'Al Kahrabaa')
